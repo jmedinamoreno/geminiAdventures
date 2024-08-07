@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="label_pirates_adventure">Une Aventure de Pirates !</string>
+    <string name="generic_error_message">Oups ! Quelque chose s’est mal passé.\nVeuillez appuyer sur recharger pour commencer une nouvelle aventure.</string>
+    <string name="reload">Recharger</string>
+</resources>

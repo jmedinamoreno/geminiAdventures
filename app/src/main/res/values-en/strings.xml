@@ -1,7 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name" translatable="false">GeminiAdventure</string>
-    <string name="action_go" translatable="false">Go</string>
-    <string name="results_placeholder" translatable="false">(Results will appear here)</string>
     <string name="label_pirates_adventure">A Pirate Adventure!!</string>
     <string name="generic_error_message">Ops! Something went wrong.\nPlease, press reload to start a new adventure.</string>
     <string name="reload">Reload</string>

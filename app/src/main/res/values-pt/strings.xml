@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="label_pirates_adventure">Uma Aventura de Piratas!!</string>
+    <string name="generic_error_message">Ops! Algo deu errado.\nPor favor, pressione recarregar para iniciar uma nova aventura.</string>
+    <string name="reload">Recarregar</string>
+</resources>

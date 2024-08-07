@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="label_pirates_adventure">Ein Piratenabenteuer!!</string>
+    <string name="generic_error_message">Ups! Etwas ist schiefgelaufen.\nBitte drücke auf Aktualisieren, um ein neues Abenteuer zu starten.</string>
+    <string name="reload">Aktualisieren</string>
+</resources>
